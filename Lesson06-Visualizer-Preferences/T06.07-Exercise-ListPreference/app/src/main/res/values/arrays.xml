@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <array name="pref_color_key">
+        <item>@string/app_name</item>
+    </array>
+
+    <array>
+        <item>@string/pref_color_blue_value</item>
+    </array>
+</resources>
